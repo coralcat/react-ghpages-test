@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coralcat/react-ghpages-test.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/coralcat/react-ghpages-test.git/static/js/main.89ef9643.chunk.js",
+    "main.js.map": "/coralcat/react-ghpages-test.git/static/js/main.89ef9643.chunk.js.map",
+    "runtime-main.js": "/coralcat/react-ghpages-test.git/static/js/runtime-main.a400a0d8.js",
+    "runtime-main.js.map": "/coralcat/react-ghpages-test.git/static/js/runtime-main.a400a0d8.js.map",
+    "static/js/2.a0e1a1bb.chunk.js": "/coralcat/react-ghpages-test.git/static/js/2.a0e1a1bb.chunk.js",
+    "static/js/2.a0e1a1bb.chunk.js.map": "/coralcat/react-ghpages-test.git/static/js/2.a0e1a1bb.chunk.js.map",
+    "index.html": "/coralcat/react-ghpages-test.git/index.html",
+    "precache-manifest.fe3ec85f9fc39029a0af89ece1ccd054.js": "/coralcat/react-ghpages-test.git/precache-manifest.fe3ec85f9fc39029a0af89ece1ccd054.js",
+    "service-worker.js": "/coralcat/react-ghpages-test.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/coralcat/react-ghpages-test.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a0e1a1bb.chunk.js.LICENSE.txt": "/coralcat/react-ghpages-test.git/static/js/2.a0e1a1bb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/coralcat/react-ghpages-test.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a400a0d8.js",
+    "static/js/2.a0e1a1bb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.89ef9643.chunk.js"
+  ]
+}
